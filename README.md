@@ -35,5 +35,4 @@ Este es el segundo Challenge del programa ONE - Oracle Next Education, donde se 
 
 ---
 
-[**Link de la página** ✌](https://mariasmoun.github.io/Juego-del-Ahorcado/)
 ---
