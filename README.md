@@ -1,4 +1,4 @@
-# Juego del Ahorcado | Challenge ONE - Oracle Next Education
+# Juego del Ahorcado
 
 Link del proyecto al final ⬇
 
